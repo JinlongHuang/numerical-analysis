@@ -9,5 +9,5 @@ Basic numerical algorithms realized in Matlab, including
 
 Reference: Richard L. Burden & J. Douglas Faires, Numerical Analysis, Ninth Edition.
 
-Please feel free to ask any question.
+Please feel free to ask any questions.
 :)
